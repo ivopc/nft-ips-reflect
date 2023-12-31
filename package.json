@@ -6,12 +6,12 @@
   "scripts": {
     "dev": "nodemon src/app",
     "prod": "NODE_ENV=production node src/app",
-    "dev2": "nodemon src/app",
+    "dev2": "nodemon src-2/app",
     "prod2": "NODE_ENV=production node src-2/app",
     "database-seed-dev": "NODE_ENV=development node src/database/seed.js",
-    "database-seed-dev-2": "NODE_ENV=development node src/database/seed.js",
+    "database-seed-dev-2": "NODE_ENV=development node src-2/database/seed.js",
     "database-seed-prod": "NODE_ENV=production node src/database/seed.js",
-    "database-seed-prod-2": "NODE_ENV=production node src/database/seed.js"
+    "database-seed-prod-2": "NODE_ENV=production node src-2/database/seed.js"
   },
   "author": "ivopc <ivoopc@gmail.com>",
   "license": "ISC",
