@@ -1,4 +1,5 @@
-This is made for a job that reproduces NFTs data into a database. I got scammed and did get paid so I decided to turn it open-source.
+This is made for a job that reproduces NFTs data into a database. I got scammed and did not get paid so I decided to turn it open-source.
+
 The project have two differents sources with little different aspects but I forgot which one is the most updated release, lol.
 
 ## Setup
