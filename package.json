@@ -1,0 +1,29 @@
+{
+  "name": "nftipfs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app",
+    "prod": "NODE_ENV=production node src/app",
+    "dev2": "nodemon src/app",
+    "prod2": "NODE_ENV=production node src-2/app",
+    "database-seed-dev": "NODE_ENV=development node src/database/seed.js",
+    "database-seed-dev-2": "NODE_ENV=development node src/database/seed.js",
+    "database-seed-prod": "NODE_ENV=production node src/database/seed.js",
+    "database-seed-prod-2": "NODE_ENV=production node src/database/seed.js"
+  },
+  "author": "ivopc <ivoopc@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@pinata/sdk": "^1.1.25",
+    "custom-env": "^2.0.1",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "moralis": "^1.7.0",
+    "sequelize": "^6.20.0",
+    "sqlite3": "^5.0.8",
+    "web3": "^1.7.3",
+    "winston": "^3.7.2"
+  }
+}

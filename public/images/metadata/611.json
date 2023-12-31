@@ -1,0 +1,42 @@
+{
+  "name": "#611",
+  "description": "Baby Elephant Finance",
+  "external_url": "",
+  "image": "611.webp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "The Jade Card"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Body"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Shades Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Camo Bandage"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Money"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "611.webp",
+        "type": "image/webp"
+      }
+    ],
+    "creators": []
+  },
+  "compiler": "https://nft-generator.art"
+}

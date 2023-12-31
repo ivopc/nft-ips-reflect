@@ -1,0 +1,4 @@
+const FIXED_ADDRESS = "0xbc658b6914377c76634a864f10910c46e6f31c8a";
+const CHAIN = "0x61";
+
+module.exports = { FIXED_ADDRESS, CHAIN };

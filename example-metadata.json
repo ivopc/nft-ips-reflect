@@ -1,0 +1,26 @@
+{
+    "name": "BELP NFT#5",
+    "description": "Baby Elephant Finance",
+    "external_url": "https://www.babyelephant.finance",
+    "image": "ipfs://QmdB6KsEWeVmbgpigA7RMs5Dj83YEj86Asa73BquQ2Tvs8/5.webp",
+    "attributes": [{
+        "trait_type": "Background",
+        "value": "Purple Card"
+    }, {
+        "trait_type": "Body",
+        "value": "Orange Body"
+    }, {
+        "trait_type": "Eyes",
+        "value": "Monocle"
+    }, {
+        "trait_type": "Hat",
+        "value": "Pink Hat"
+    }, {
+        "trait_type": "Cloth",
+        "value": "Dark Brown"
+    }, {
+        "trait_type": "Item",
+        "value": "Pancake"
+    }],
+    "compiler": "https://nft-generator.art"
+}

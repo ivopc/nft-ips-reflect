@@ -1,0 +1,42 @@
+{
+  "name": "#630",
+  "description": "Baby Elephant Finance",
+  "external_url": "",
+  "image": "630.webp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Card"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Body"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "BELP Pirate"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cat Hat"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Wove"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Harlemball"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "630.webp",
+        "type": "image/webp"
+      }
+    ],
+    "creators": []
+  },
+  "compiler": "https://nft-generator.art"
+}
